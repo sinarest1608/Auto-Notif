@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353290395706",
+    "firebase_url": "https://fnotif-9015c.firebaseio.com",
+    "project_id": "fnotif-9015c",
+    "storage_bucket": "fnotif-9015c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353290395706:android:6c030dbaf7c903ebb71503",
+        "android_client_info": {
+          "package_name": "com.example.anotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353290395706-o58vsp8tur2o7his87thn2qplsa6suer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anotif",
+            "certificate_hash": "011f6691f987fe786744c1ba39fd74b68d174e97"
+          }
+        },
+        {
+          "client_id": "353290395706-8biunhv406k8rspb9dqeci97803pq5le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZElkzlr6d9F1d2hf3I2gVSV5WNPpfY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353290395706-8biunhv406k8rspb9dqeci97803pq5le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
